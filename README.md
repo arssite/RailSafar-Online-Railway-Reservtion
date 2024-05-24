@@ -1,5 +1,6 @@
 # RailSafar-Online-Railway-Reservtion
-Contributors : https://github.com/MeghaSingh-5634 https://github.com/arssite
+Contributors :<br> Megha : https://github.com/MeghaSingh-5634 <br>
+               Anmol: https://github.com/arssite
 ### Railsafar: Online Rail Reservation Software
 
 **Railsafar** is an online rail reservation software designed to streamline the process of booking train tickets. Built using PHP and MySQL, it leverages dynamic HTML to provide an interactive and user-friendly experience. The software includes features such as train schedules, seat availability, booking, cancellation, and user management. Its web-based nature ensures that users can access the service from any location with an internet connection, making it a convenient solution for travelers and administrators alike.
